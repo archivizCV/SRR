@@ -1,4 +1,5 @@
 #效果图修改标准|Standards for Rendering Revisions(SRR)#
+
 ##简介|Introduction##
 
 效果图修改标准一直以来主要依靠人工与肉眼来判断修改量，既不够客观，也容易产生沟通成本和误差。
